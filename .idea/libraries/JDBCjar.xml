@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="JDBCjar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/lib/c3p0-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/lib/druid-1.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/lib/junit-4.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/lib/mchange-commons-java-0.2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/lib/mysql-connector-java-8.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/lib/spring-beans-5.3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/lib/spring-core-5.3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/lib/spring-jdbc-5.3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/lib/spring-tx-5.3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/lib/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

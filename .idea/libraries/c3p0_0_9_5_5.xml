@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/c2p0lib/c3p0-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/c2p0lib/mchange-commons-java-0.2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/c2p0lib/mysql-connector-java-8.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/c2p0lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo02_JDBC/c2p0lib/junit-4.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
