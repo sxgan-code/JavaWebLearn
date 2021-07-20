@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="deom03_servlet">
+    <output-path>$PROJECT_DIR$/out/artifacts/deom03_servlet</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="deom03_servlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="deom03_servlet" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="servletjar (2)" module-name="deom03_servlet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
