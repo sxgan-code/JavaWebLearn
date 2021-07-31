@@ -981,40 +981,62 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <Host>localhost</Host>
       <Plugin>caching_sha2_password</Plugin>
     </user>
-    <table id="290" parent="6" name="user_info">
+    <table id="290" parent="6" name="user_account">
       <Collation>utf8_general_ci</Collation>
     </table>
-    <column id="291" parent="290" name="userid">
+    <table id="291" parent="6" name="user_info">
+      <Collation>utf8_general_ci</Collation>
+    </table>
+    <column id="292" parent="290" name="acctid">
       <Position>1</Position>
       <DataType>int(5)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>null</SequenceIdentity>
     </column>
-    <column id="292" parent="290" name="username">
+    <column id="293" parent="290" name="acctNum">
       <Position>2</Position>
       <DataType>varchar(50)|0s</DataType>
     </column>
-    <column id="293" parent="290" name="userage">
+    <column id="294" parent="290" name="acctPwd">
+      <Position>3</Position>
+      <DataType>varchar(50)|0s</DataType>
+    </column>
+    <key id="295" parent="290" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>acctid</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="296" parent="291" name="userid">
+      <Position>1</Position>
+      <DataType>int(5)|0s</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>null</SequenceIdentity>
+    </column>
+    <column id="297" parent="291" name="username">
+      <Position>2</Position>
+      <DataType>varchar(50)|0s</DataType>
+    </column>
+    <column id="298" parent="291" name="userage">
       <Position>3</Position>
       <DataType>int(2)|0s</DataType>
     </column>
-    <column id="294" parent="290" name="usersex">
+    <column id="299" parent="291" name="usersex">
       <Position>4</Position>
       <DataType>varchar(10)|0s</DataType>
     </column>
-    <column id="295" parent="290" name="certtype">
+    <column id="300" parent="291" name="certtype">
       <Position>5</Position>
       <DataType>varchar(20)|0s</DataType>
     </column>
-    <column id="296" parent="290" name="certid">
+    <column id="301" parent="291" name="certid">
       <Position>6</Position>
       <DataType>varchar(20)|0s</DataType>
     </column>
-    <column id="297" parent="290" name="phone">
+    <column id="302" parent="291" name="phone">
       <Position>7</Position>
       <DataType>varchar(20)|0s</DataType>
     </column>
-    <key id="298" parent="290" name="PRIMARY">
+    <key id="303" parent="291" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>userid</ColNames>
       <Primary>1</Primary>

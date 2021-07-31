@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/JavaWebLearn.iml" filepath="$PROJECT_DIR$/JavaWebLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo01_environment/demo01_environment.iml" filepath="$PROJECT_DIR$/demo01_environment/demo01_environment.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo02_JDBC/demo02_JDBC.iml" filepath="$PROJECT_DIR$/demo02_JDBC/demo02_JDBC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/deom03_servlet/deom03_servlet.iml" filepath="$PROJECT_DIR$/deom03_servlet/deom03_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03_servlet/demo03_servlet.iml" filepath="$PROJECT_DIR$/demo03_servlet/demo03_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04_example_login/demo04_example_login.iml" filepath="$PROJECT_DIR$/demo04_example_login/demo04_example_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo05_example_checkcode/demo05_example_checkcode.iml" filepath="$PROJECT_DIR$/demo05_example_checkcode/demo05_example_checkcode.iml" />
     </modules>
   </component>
 </project>
