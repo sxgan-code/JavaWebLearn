@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo03_servlet/demo03_servlet.iml" filepath="$PROJECT_DIR$/demo03_servlet/demo03_servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo04_example_login/demo04_example_login.iml" filepath="$PROJECT_DIR$/demo04_example_login/demo04_example_login.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo05_example_checkcode/demo05_example_checkcode.iml" filepath="$PROJECT_DIR$/demo05_example_checkcode/demo05_example_checkcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo06_example_download/demo06_example_download.iml" filepath="$PROJECT_DIR$/demo06_example_download/demo06_example_download.iml" />
     </modules>
   </component>
 </project>
